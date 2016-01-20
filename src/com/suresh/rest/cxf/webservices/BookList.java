@@ -23,6 +23,10 @@ public class BookList {
 		return super.toString();
 	}
 	
+	public static void main(String args[]){
+		System.out.println("Git installed Successfully");
+	}
+	
 	
 
 }
